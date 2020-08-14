@@ -87,6 +87,12 @@ top: 580px;
   
   
 }
+.bmc {
+  
+  position: absolute;
+  left: 290px;
+  top: 650px;
+  }
 
 .main-image-container {
   position: absolute;
